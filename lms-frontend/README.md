@@ -52,7 +52,7 @@ npx tailwindcss init
 ```
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; 
 
 ```
 
